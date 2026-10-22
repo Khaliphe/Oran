@@ -1,2 +1,2 @@
 # Oran
-C'est une ville très connue où il n'y a pas d'oies
+C'est une ville très connue pour ne pas avoir d'oies.
